@@ -1,3 +1,3 @@
 print "coding is fun!!!!!"
-print "im felling swell"
-print "swag"
+puts "im felling swell"
+print "           swag"
