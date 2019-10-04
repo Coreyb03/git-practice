@@ -1,7 +1,7 @@
 Very first time you use a new computer, you have to run two commands
 --------------------------------------------------------------------
 
-    git config -- global.user.name "Corey Becker"
+    git config -- global user.name "Corey Becker"
     git config -- global user.email "thecorey03@gmail.com"
 
 setting up a new project (repository, folder)
