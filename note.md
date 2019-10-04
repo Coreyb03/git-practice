@@ -19,3 +19,15 @@ three step commit process
     -make changes to the code (working)
     -add any changes files to the stage (git add filename.rb)
     -commit to stage files (git commit -m "descriptive message")
+
+git push 
+--------------------------------------------------------------------
+    pushes code to github
+
+git pull
+--------------------------------------------------------------------
+    pulls code from github
+
+Clone
+--------------------------------------------------------------------
+    perfect copy of the code
