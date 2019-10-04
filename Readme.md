@@ -8,8 +8,9 @@ School coding practice
     indented block
 
 `single line back ticks`
-...
+
+```
 list.each do |n|
     puts n
 end
-...
+```
